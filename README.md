@@ -10,7 +10,7 @@
       <h3>About Me:</h3>
       <ul>
         <li>🎓 I’m a 2nd-year CSE Undergrad student at <b>Thapar Institute (TIET)</b>.</li>
-        <li>🏆 <b>4x Hackathon Winnerr</b> for innovation & entrepreneurship.</li>
+        <li>🏆 <b>4x Hackathon Winner</b> for innovation & entrepreneurship.</li>
         <li>🚀 Co-Founder & CFO of <b>VzenCare</b> (Rank 1 at StartupThon)</li>
         <li>💻 Currently building <b>FinSafe AI</b>, a cutting-edge AI fraud detection system using ML models.</li>
         <li>💬 Passionate about Startups, Full-stack dev & AI</li>
@@ -112,7 +112,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="[https://twitter.com/TheDudeThatCode](https://github.com/Gupta2708/)" target="_blank">
+      <a href="https://github.com/Gupta2708/" target="_blank">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="35" alt="Twitter" />
         <br>Twitter
       </a>
