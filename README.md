@@ -9,7 +9,7 @@
     <td>
       <h3>About Me:</h3>
       <ul>
-        <li>🎓 I’m a 2nd-year CSE Undergrad student at <b>Thapar Institute (TIET)</b>.</li>
+        <li>🎓 I’m a 2nd-year CSE Undergraduate at <b>Thapar University (TIET)</b>.</li>
         <li>🏆 <b>4x Hackathon Winner</b> for innovation & entrepreneurship.</li>
         <li>🚀 Co-Founder & CFO of <b>VzenCare</b> (Rank 1 at StartupThon)</li>
         <li>💻 Currently building <b>FinSafe AI</b>, a cutting-edge AI fraud detection system using ML models.</li>
@@ -23,6 +23,7 @@
 ---
 
   ## 🛠️ Tech Stack
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400px" height="80%"/>
 <table>
   <tr>
     <td><strong>Languages:</strong></td>
@@ -92,8 +93,10 @@
 ---
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Vaibhav github stats](https://github-readme-stats.vercel.app/api?username=Gupta2708&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gupta2708&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/Gupta2708/github-readme-stats)
+<p align="center">
+<a href="https://github.com/Gupta2708/Gupta2708"><img  src="https://github-readme-stats.vercel.app/api?username=Gupta2708&&show_icons=true&theme=radical"/></a>
+<a href="https://github.com/Gupta2708/Gupta2708"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gupta2708&layout=compact&show_icons=true&theme=radical" /></a>
+</p>
 <p align="center">
 <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gupta2708&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
