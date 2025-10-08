@@ -10,10 +10,9 @@
       <h3>About Me:</h3>
       <ul>
         <li>🎓 I’m a Pre-Final year CSE Undergraduate at <b>Thapar University (TIET)</b>.</li>
-        <li>🏆 <b>4x Hackathon Winner</b> for innovation & entrepreneurship.</li>
+        <li>🏆 <b>4x National Winner</b> for innovation & entrepreneurship.</li>
         <li>🚀 Co-Founder & CFO of <b>VzenCare</b> (Rank 1 at StartupThon)</li>
-        <li>💻 Currently building <b>FinSafe AI</b>, a cutting-edge AI fraud detection system using ML models.</li>
-        <li>💬 Passionate about Startups, Full-stack dev & AI</li>
+        <li>💬 Passionate about Startups, Full-stack dev & AI/ML</li>
         <li>⚡ Fun fact: I love solving real-world problems and brainstorming smart tech solutions.</li>
       </ul>
     </td>
