@@ -98,7 +98,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayshreepathak&theme=react-dark&hide_border=true&radius=10&bg_color=0D1117&color=00FFFF&line=FF6B6B&point=FFD700&area=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gupta2708&theme=react-dark&hide_border=true&radius=10&bg_color=0D1117&color=00FFFF&line=FF6B6B&point=FFD700&area=true" width="98%" />
 </div>
 <p align="center">
 <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gupta2708&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
