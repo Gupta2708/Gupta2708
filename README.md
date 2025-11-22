@@ -102,12 +102,15 @@
     width="49%" 
   />
 </div>
+<h2 align="center">Vaibhav Gupta's Contribution Graph</h2>
+
 <div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Gupta2708&theme=react-dark&hide_border=true&radius=10&bg_color=0D1117&color=00FFFF&line=FF6B6B&point=FFD700&area=true" 
     width="98%" 
   />
 </div>
+
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gupta2708&theme=dark)](https://git.io/streak-stats) -->
 
