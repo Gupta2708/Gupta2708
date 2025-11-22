@@ -92,20 +92,56 @@
 ---
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+<!-- Streak Stats -->
+<div style="
+    border: 2px solid #00FFFF;
+    border-radius: 15px;
+    padding: 10px;
+    width: 45%;
+    background-color: #0D1117;
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+  ">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Gupta2708&theme=radical&hide_border=true&border_radius=10&ring=FFD700&fire=FF6B6B&currStreakLabel=00FFFF" 
-    width="49%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Gupta2708&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true&title_color=FFD700&text_color=00FFFF&icon_color=FF6B6B&bg_color=0D1117" 
-    width="49%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Gupta2708&theme=radical&hide_border=true&border_radius=10&ring=FFD700&fire=FF6B6B&currStreakLabel=00FFFF"
+    width="100%" 
   />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gupta2708&layout=compact&theme=radical&hide_border=true&border_radius=10&title_color=FFD700&text_color=00FFFF&bg_color=0D1117" width="40%" />
+<!-- Main GitHub Stats -->
+<div style="
+    border: 2px solid #00FFFF;
+    border-radius: 15px;
+    padding: 10px;
+    width: 45%;
+    background-color: #0D1117;
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+  ">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Gupta2708&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true&title_color=FFD700&text_color=00FFFF&icon_color=FF6B6B&bg_color=0D1117"
+    width="100%" 
+  />
 </div>
+
+</div>
+
+<!-- Languages Card -->
+<div align="center" style="
+      border: 2px solid #00FFFF;
+      border-radius: 15px;
+      padding: 10px;
+      width: 40%;
+      margin: 25px auto;
+      background-color: #0D1117;
+      box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+    ">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gupta2708&layout=compact&theme=radical&hide_border=true&border_radius=10&title_color=FFD700&text_color=00FFFF&bg_color=0D1117"
+    width="100%" 
+  />
+</div>
+
 
 <div align="center">
   <img 
