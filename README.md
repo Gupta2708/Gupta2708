@@ -92,10 +92,14 @@
 ---
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-<p align="center">
-<a href="https://github.com/Gupta2708/Gupta2708"><img  width="45%" src="https://github-readme-stats.vercel.app/api?username=Gupta2708&&show_icons=true&theme=radical"/></a>
-<a href="https://github.com/Gupta2708/Gupta2708"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gupta2708&layout=compact&show_icons=true&theme=radical" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gupta2708&theme=radical&hide_border=true&border_radius=10&ring=FFD700&fire=FF6B6B&currStreakLabel=00FFFF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api username=Gupta2708&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true&title_color=FFD700&text_color=00FFFF&icon_color=FF6B6B&bg_color=0D1117" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayshreepathak&theme=react-dark&hide_border=true&radius=10&bg_color=0D1117&color=00FFFF&line=FF6B6B&point=FFD700&area=true" width="98%" />
+</div>
 <p align="center">
 <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gupta2708&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
