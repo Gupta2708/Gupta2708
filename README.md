@@ -102,7 +102,10 @@
     width="49%" 
   />
 </div>
-<h2 align="center">Vaibhav Gupta's Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gupta2708&layout=compact&theme=radical&hide_border=true&border_radius=10&title_color=FFD700&text_color=00FFFF&bg_color=0D1117" width="40%" />
+</div>
 
 <div align="center">
   <img 
