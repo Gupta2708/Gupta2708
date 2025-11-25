@@ -96,25 +96,17 @@
 <div align="center">
 
   <!-- Streak stats (with border shown) -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Gupta2708&theme=radical&hide_border=false&border_radius=12&ring=FFD700&fire=FF6B6B&currStreakLabel=00FFFF"
-    width="49%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gupta2708&theme=radical&hide_border=false&border_radius=12&ring=FFD700&fire=FF6B6B&currStreakLabel=00FFFF" width="49%"/>
 
   <!-- Main GitHub stats (with border shown) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Gupta2708&show_icons=true&theme=radical&rank_icon=github&hide_border=false&border_radius=12&title_color=FFD700&text_color=00FFFF&icon_color=FF6B6B&bg_color=0D1117"
-    width="49%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gupta2708&show_icons=true&theme=radical&rank_icon=github&hide_border=false&border_radius=12&title_color=FFD700&text_color=00FFFF&icon_color=FF6B6B&bg_color=0D1117" width="49%"/>
 
 </div>
 
 <div align="center" style="margin-top:18px;">
   <!-- Top languages with border shown -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gupta2708&layout=compact&theme=radical&hide_border=false&border_radius=12&title_color=FFD700&text_color=00FFFF&bg_color=0D1117"
-    width="40%"
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gupta2708&layout=compact&theme=radical&hide_border=false&border_radius=12&title_color=FFD700&text_color=00FFFF&bg_color=0D1117" width="40%"/>
 </div>
 
 
