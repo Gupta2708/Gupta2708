@@ -134,12 +134,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/vaibhav-gupta-28a072294/" target="_blank">
-        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="35" alt="Twitter" />
-        <br><img src = "https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.instagram.com/vaiibhavv.g/" target="_blank">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="35" alt="Instagram" />
         <br><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
@@ -149,6 +143,15 @@
       <a href="mailto:guptavaibhav2708@gmail.com" target="_blank">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="35" alt="Gmail" />
         <br><a href="mailto:guptavaibhav2708@gmail.com?subject=Hello%20Vaibhav,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>  
+    </td>
+    <td align="center">
+      <a href="https://t.me/Gupta_2708"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/vaibhav-gupta-28a072294/" target="_blank">
+        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="35" alt="Twitter" />
+        <br><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=for-the-badge&logo=Twitterin&logoColor=white">
       </a>
     </td>
   </tr>
