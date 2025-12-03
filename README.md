@@ -130,11 +130,11 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/vaibhav-gupta-28a072294/" target="_blank">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="35" alt="LinkedIn" />
-        <br>LinkedIn
+        <br><a href="https://www.linkedin.com/company/eduhub-community" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/company/eduhub-community" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+      <a href="https://www.linkedin.com/in/vaibhav-gupta-28a072294/" target="_blank">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="35" alt="Twitter" />
         <br>Twitter
       </a>
