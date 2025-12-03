@@ -146,7 +146,9 @@
       </a>  
     </td>
     <td align="center">
-      <a href="https://t.me/Gupta_2708"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+      <a href="https://t.me/Gupta_2708"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+      <img src="https://raw.githubusercontent.com/Gupta2708/Gupta2708/main/logo-telegram.svg" width="35" />
+      </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/vaibhav-gupta-28a072294/" target="_blank">
