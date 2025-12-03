@@ -142,13 +142,13 @@
     <td align="center">
       <a href="https://www.instagram.com/vaiibhavv.g/" target="_blank">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="35" alt="Instagram" />
-        <br>[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vaiibhavv.g)
+        <br>[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
       </a>
     </td>
     <td align="center">
       <a href="mailto:guptavaibhav2708@gmail.com" target="_blank">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="35" alt="Gmail" />
-        <br>Gmail
+        <br><a href="mailto:guptavaibhav2708@gmail.com?subject=Hello%20Vaibhav,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
   </tr>
