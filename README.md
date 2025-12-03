@@ -134,7 +134,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gupta2708/" target="_blank">
+      <a href="https://www.linkedin.com/company/eduhub-community" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="35" alt="Twitter" />
         <br>Twitter
       </a>
