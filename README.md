@@ -146,8 +146,9 @@
       </a>  
     </td>
     <td align="center">
-      <a href="https://t.me/Gupta_2708"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-      <img src="https://raw.githubusercontent.com/Gupta2708/Gupta2708/main/logo-telegram.svg" width="35" />
+      <a href="https://t.me/Gupta_2708">
+        <img src="https://raw.githubusercontent.com/Gupta2708/Gupta2708/main/logo-telegram.svg" width="35" alt="Telegram Icon" /><br>
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
       </a>
     </td>
     <td align="center">
