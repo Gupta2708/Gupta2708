@@ -128,21 +128,21 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/vaibhav-gupta-28a072294/" target="_blank">
+      <a href="https://www.linkedin.com/in/vaibhavgupta2708/" target="_blank">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="35" alt="LinkedIn" />
-        <br><a href="https://www.linkedin.com/company/eduhub-community" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+        <br><a href="https://www.linkedin.com/in/vaibhavgupta2708/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/vaibhav-gupta-28a072294/" target="_blank">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="35" alt="Twitter" />
-        <br>Twitter
+        <br><img src = "https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white">
       </a>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/vaiibhavv.g/" target="_blank">
         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="35" alt="Instagram" />
-        <br>[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
+        <br><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
       </a>
     </td>
     <td align="center">
